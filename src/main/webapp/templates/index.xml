@@ -1,4 +1,18 @@
 <templates>
+<clibs name="sap">
+  <add>Uhttps://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Circled%20-%20AI.xml</add>
+  <add>Uhttps://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Circled%20-%20Application%20Development%20and%20Automation.xml</add>
+  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Circled%20-%20Data%20and%20Analytics.xml</add>
+  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Circled%20-%20Foundation%20-%20Cross%20Services.xml</add>
+  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Circled%20-%20Integration.xml</add>
+  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Regular%20-%20AI.xml</add>
+  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Regular%20-%20Data%20and%20Analytics.xml</add>
+  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Regular%20-%20Foundation%20-%20Cross%20Services.xml</add>
+  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Regular%20-%20Integration.xml</add>
+  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/SAP%20Icons%20-%20SAP-icons-v5.xml</add>
+  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/SAP%20Icons%20-%20business-suite.xml</add>
+  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/SAP%20Icons%20-%20tnt.xml</add>
+</clibs>
 <clibs name="azure">
   <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/additional_or_support.xml</add>
   <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/ai_machine_learning.xml</add>
@@ -82,8 +96,6 @@
 <template url="cloud/aws/aws_8.xml" name="Aws 8" libs="general;aws4" tags="Aws"/>
 <template url="cloud/aws/aws_9.xml" name="Aws 9" libs="general;aws4" tags="Aws"/>
 <template url="cloud/aws/aws_10.xml" name="Aws 10" libs="general;aws4" tags="Aws"/>
-<template url="cloud/SAP/test.xml" name="SAP1" libs="general;aws4" tags="SAP"/>
-
 <template url="cloud/aws/aws_3d.xml" name="Aws 3d" libs="general;aws3d" tags="Aws;3d"/>
 <template url="cloud/azure/azure_1.xml" name="Azure 1" libs="general;azure;mscae" clibs="azure" tags="Azure"/>
 <template url="cloud/azure/azure_2.xml" name="Azure 2" libs="general;azure;mscae" clibs="azure" tags="Azure"/>
