@@ -1,8 +1,4 @@
 <templates>
-<clibs name="SAP">
-
-  <add>Uhttps://github.com/uxkjaer/drawio/blob/dev/src/main/webapp/templates/cloud/SAP/test.xml</add>
-</clibs>
 <clibs name="azure">
   <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/additional_or_support.xml</add>
   <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/ai_machine_learning.xml</add>
@@ -86,6 +82,8 @@
 <template url="cloud/aws/aws_8.xml" name="Aws 8" libs="general;aws4" tags="Aws"/>
 <template url="cloud/aws/aws_9.xml" name="Aws 9" libs="general;aws4" tags="Aws"/>
 <template url="cloud/aws/aws_10.xml" name="Aws 10" libs="general;aws4" tags="Aws"/>
+<template url="cloud/SAP/test.xml" name="SAP1" libs="general;aws4" tags="SAP"/>
+
 <template url="cloud/aws/aws_3d.xml" name="Aws 3d" libs="general;aws3d" tags="Aws;3d"/>
 <template url="cloud/azure/azure_1.xml" name="Azure 1" libs="general;azure;mscae" clibs="azure" tags="Azure"/>
 <template url="cloud/azure/azure_2.xml" name="Azure 2" libs="general;azure;mscae" clibs="azure" tags="Azure"/>
