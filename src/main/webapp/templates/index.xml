@@ -1,4 +1,8 @@
 <templates>
+<clibs name="SAP">
+
+  <add>Uhttps://github.com/uxkjaer/drawio/blob/dev/src/main/webapp/templates/cloud/SAP/test.xml</add>
+</clibs>
 <clibs name="azure">
   <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/additional_or_support.xml</add>
   <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/ai_machine_learning.xml</add>
