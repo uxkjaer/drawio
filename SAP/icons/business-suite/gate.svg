@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 510" preserveAspectRatio="xMidYMid">
+                    <defs><style>.cls-1{fill:#595959;}</style></defs>
+                    <title>gate</title>
+                    <g id="Layer_2" data-name="Layer 2"><g id="gate">
+                    <path class="cls-1" d="M6 386h32V105c0-35 27-63 62-63h31c23 0 43 11 54 30h321v93H194v221h31v94H6v-94zM116 73c-27 0-47 20-47 47 0 25 20 46 47 46s47-21 47-46c0-27-20-47-47-47zm86 77h63l23-63h-63zm117-63l-23 63h63l22-63h-62zm94 0l-23 63h62l23-63h-62z"></path>
+                    </g></g>
+                    </svg>

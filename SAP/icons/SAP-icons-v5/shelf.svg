@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 510" preserveAspectRatio="xMidYMid">
+                    <defs><style>.cls-1{fill:#595959;}</style></defs>
+                    <title>shelf</title>
+                    <g id="Layer_2" data-name="Layer 2"><g id="shelf">
+                    <path class="cls-1" d="M467 0q14 0 22 8t8 22v451q0 14-8 22t-22 8-22-8-8-22v-60H76v60q0 14-8 22t-22 8-22-8-8-22V30q0-12 9-21t21-9h421zM76 60v120h361V60H76zm361 300V240H76v120h361zM196 150q-14 0-22-8t-8-22 8-22 22-8h120q14 0 22 8t8 22-8 22-22 8H196zm120 120q14 0 22 8t8 22-8 22-22 8H196q-14 0-22-8t-8-22 8-22 22-8h120z"></path>
+                    </g></g>
+                    </svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 510" preserveAspectRatio="xMidYMid">
+                    <defs><style>.cls-1{fill:#595959;}</style></defs>
+                    <title>railcar</title>
+                    <g id="Layer_2" data-name="Layer 2"><g id="railcar">
+                    <path class="cls-1" d="M16 208V48c0-19 13-32 32-32h416c17 0 32 13 32 32v160h-48v48c0 17-15 32-32 32H96c-19 0-32-15-32-32v-48H16zm32-32h48v80h320v-80h48V48H48v128zM32 416c-19 0-32-13-32-32h48c8-36 40-64 79-64s71 28 78 64h86c8-36 40-64 79-64s71 28 78 64h64v64h-32v-32h-32c-7 37-39 64-78 64s-71-27-79-64h-86c-7 37-39 64-78 64s-71-27-79-64H32zm290-16c0 26 22 48 48 48s48-22 48-48-22-48-48-48-48 22-48 48zm-243 0c0 26 22 48 48 48s48-22 48-48-22-48-48-48-48 22-48 48z"></path>
+                    </g></g>
+                    </svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 56 56"><circle r="23" cx="50%" cy="50%" stroke-opacity="1" stroke-width="2" stroke="#074d92" fill-opacity="1" fill="#ffffff"></circle><svg viewBox="0 0 56 56" height="30" x="0" y="25%"><svg version="1.1" id="generic-line-item-matching" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 56 56" style="enable-background:new 0 0 56 56;" xml:space="preserve" height="100%" width="100%">
+<style type="text/css">
+	.st0{fill:#0A6ED1;}
+	.st1{fill:#053B70;}
+</style>
+<path class="st0" d="M31,19V4H4v39h24v6h21V19H31z M28,40H7V7h21v14.6h10.9c1,0,1.8,0.9,1.9,1.9c0,1-0.8,1.9-1.9,1.9l-10.9,0v2.2
+	h13.9c1,0,1.9,0.8,1.9,1.9c0,1-0.8,1.9-1.9,1.9H28v2.2h7.9c1,0,1.9,0.8,1.9,1.9c0,1-0.8,1.9-1.9,1.9H28L28,40z M41.9,43.4h-6.7
+	c-1,0-1.9-0.8-1.9-1.9c0-1,0.8-1.9,1.9-1.9h6.7c1,0,1.9,0.8,1.9,1.9C43.8,42.5,42.9,43.4,41.9,43.4z M44.9,37.4h-3.8
+	c-1,0-1.9-0.8-1.9-1.9c0-1,0.8-1.9,1.9-1.9h3.7c1,0,1.9,0.8,1.9,1.9C46.8,36.5,45.9,37.4,44.9,37.4L44.9,37.4z"></path>
+<polygon class="st1" points="31,16 31,19 49,19 49,49 28,49 28,43 25,43 25,52 52,52 52,16 "></polygon>
+<rect x="28" y="21" class="st0" width="19.8" height="23"></rect>
+</svg></svg></svg>

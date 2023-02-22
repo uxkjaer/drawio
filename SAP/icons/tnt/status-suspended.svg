@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 510" preserveAspectRatio="xMidYMid">
+                    <defs><style>.cls-1{fill:#595959;}</style></defs>
+                    <title>status-suspended</title>
+                    <g id="Layer_2" data-name="Layer 2"><g id="status-suspended">
+                    <path class="cls-1" d="M32 448V64q0-14 9-23t23-9h384q14 0 23 9t9 23v384q0 14-9 23t-23 9H64q-14 0-23-9t-9-23zm256-320v256h64V128h-64zM160 384h64V128h-64v256z"></path>
+                    </g></g>
+                    </svg>
