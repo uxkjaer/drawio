@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 510" preserveAspectRatio="xMidYMid">
+                    <defs><style>.cls-1{fill:#595959;}</style></defs>
+                    <title>sub-process-marker</title>
+                    <g id="Layer_2" data-name="Layer 2"><g id="sub-process-marker">
+                    <path class="cls-1" d="M32 448V64q0-13 9-22.5T64 32h384q13 0 22.5 9.5T480 64v384q0 14-9.5 23t-22.5 9H64q-14 0-23-9t-9-23zm416 0V64H64v384h384zM240 240V128h32v112h112v32H272v112h-32V272H128v-32h112z"></path>
+                    </g></g>
+                    </svg>
