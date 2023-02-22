@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 510" preserveAspectRatio="xMidYMid">
-                    <defs><style>.cls-1{fill:#595959;}</style></defs>
-                    <title>container</title>
-                    <g id="Layer_2" data-name="Layer 2"><g id="container">
-                    <path class="cls-1" d="M0 80h512v368H0V80zm32 32v304h448V112H32zm320 272h-32V144h32v240zm48-240h32v240h-32V144zM272 384h-32V144h32v240zM160 144h32v240h-32V144zm-80 0h32v240H80V144z"></path>
-                    </g></g>
-                    </svg>

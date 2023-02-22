@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 510" preserveAspectRatio="xMidYMid">
-                    <defs><style>.cls-1{fill:#595959;}</style></defs>
-                    <title>receive-task</title>
-                    <g id="Layer_2" data-name="Layer 2"><g id="receive-task">
-                    <path class="cls-1" d="M480 96q14 0 23 9t9 23v320q0 13-9 22.5t-23 9.5H32q-13 0-22.5-9.5T0 448V128q0-14 9.5-23T32 96h448zM66 128l190 154 190-154H66zm414 16L256 324 32 144v280l131-131 24 24L56 448h401L326 317l23-24 131 131V144z"></path>
-                    </g></g>
-                    </svg>

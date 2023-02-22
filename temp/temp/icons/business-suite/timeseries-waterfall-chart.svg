@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 510" preserveAspectRatio="xMidYMid">
-                    <defs><style>.cls-1{fill:#595959;}</style></defs>
-                    <title>timeseries-waterfall-chart</title>
-                    <g id="Layer_2" data-name="Layer 2"><g id="timeseries-waterfall-chart">
-                    <path class="cls-1" d="M418 192c-56 0-98-42-98-95 0-59 42-97 98-97 53 0 94 38 94 97 0 55-41 95-94 95zM32 432V0h64v432H32zM366 45c-15 13-22 30-22 52 0 37 35 71 72 71 39 0 73-34 73-71 0-41-34-73-73-73-19 0-36 7-50 21zM0 512v-32h512v32H0zm160-352V0h64v160h-64zm256 112h64v160h-64V272zm-64 64h-64V192h64v144zm41-220V56h24v36h48v24h-72z"></path>
-                    </g></g>
-                    </svg>
