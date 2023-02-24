@@ -2,16 +2,16 @@
 <clibs name="sap">
   <add>Uhttps://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Circled%20-%20AI.xml</add>
   <add>Uhttps://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Circled%20-%20Application%20Development%20and%20Automation.xml</add>
-  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Circled%20-%20Data%20and%20Analytics.xml</add>
-  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Circled%20-%20Foundation%20-%20Cross%20Services.xml</add>
-  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Circled%20-%20Integration.xml</add>
-  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Regular%20-%20AI.xml</add>
-  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Regular%20-%20Data%20and%20Analytics.xml</add>
-  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Regular%20-%20Foundation%20-%20Cross%20Services.xml</add>
-  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Regular%20-%20Integration.xml</add>
-  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/SAP%20Icons%20-%20SAP-icons-v5.xml</add>
-  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/SAP%20Icons%20-%20business-suite.xml</add>
-  <add>https://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/SAP%20Icons%20-%20tnt.xml</add>
+  <add>Uhttps://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Circled%20-%20Data%20and%20Analytics.xml</add>
+  <add>Uhttps://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Circled%20-%20Foundation%20-%20Cross%20Services.xml</add>
+  <add>Uhttps://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Circled%20-%20Integration.xml</add>
+  <add>Uhttps://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Regular%20-%20AI.xml</add>
+  <add>Uhttps://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Regular%20-%20Data%20and%20Analytics.xml</add>
+  <add>Uhttps://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Regular%20-%20Foundation%20-%20Cross%20Services.xml</add>
+  <add>Uhttps://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/BTP%20-%20Regular%20-%20Integration.xml</add>
+  <add>Uhttps://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/SAP%20Icons%20-%20SAP-icons-v5.xml</add>
+  <add>Uhttps://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/SAP%20Icons%20-%20business-suite.xml</add>
+  <add>Uhttps://raw.githubusercontent.com/uxkjaer/drawio/dev/SAP/libraries/draw-io/SAP%20Icons%20-%20tnt.xml</add>
 </clibs>
 <clibs name="azure">
   <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/additional_or_support.xml</add>
